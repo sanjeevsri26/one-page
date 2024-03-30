@@ -1,0 +1,36 @@
+.h1{
+    text-align: center;
+    background-color: yellow;
+}
+.list{
+    list-style: none;
+    margin-left: 0px;
+    padding: 0px;
+    
+}
+.horizontal{
+    width: 5px;
+    height: 600px;
+    background-color: green;
+    position: absolute;
+    left: 10%;
+    margin-top: -8%;
+}
+.side{
+   margin-left: 11%; 
+   margin-top: -9%;
+}
+.right{
+    position: absolute;
+    right: 10px;
+    top: 12%;
+    border: dashed darkgreen;
+    height: 20%;
+}
+.right ul li {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.email{
+    text-align: center;
+}
